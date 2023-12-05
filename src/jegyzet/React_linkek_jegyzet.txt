@@ -1,0 +1,12 @@
+hasznos extension React-hoz
+https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1
+
+
+Bootstrap React-hoz
+import 'bootstrap/dist/css/bootstrap.min.css';
+ezt ne felejtsd el beimportálni
+	Card
+https://react-bootstrap.netlify.app/docs/getting-started/introduction/
+https://react-bootstrap.netlify.app/docs/components/cards/
+	Grid
+https://react-bootstrap.netlify.app/docs/layout/grid/
